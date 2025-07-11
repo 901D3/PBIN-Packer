@@ -59,7 +59,7 @@ with open(output_zip, "r+b") as f: #zip patcher to valid pbin
         raise ValueError("EOCD not found in file.")
     data[eocd_pos + 20:eocd_pos + 22] = (32).to_bytes(2, 'little')
     comment = bytes.fromhex('58 5A 50 31 20 30' + '00 ' * 26 + '36 00 00 02') #overwrite 32 bytes to this magic "XZP1 0" starting from P and count to the right 22 bytes
-    #this cool metadata included in csgo vanilla code.pbin and classic offensive code.pbin. 1 byte before 36 00 00 02, you can put anything and it doesnt affect the ui
+    #this cool metadata is from csgo vanilla code.pbin and classic offensive code.pbin. 1 byte before 36 00 00 02, you can put anything and it doesnt affect the ui
     comment_pos = eocd_pos + 22
     data = (
         data[:comment_pos] + comment + data[comment_pos + len(comment):]

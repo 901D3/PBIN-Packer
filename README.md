@@ -1,4 +1,5 @@
 # PBIN-Packer
+If you are looking for a code.pbin packer then this tool comes in handy
 A PBIN Packer that only pack a folder into valid pbin file, no injection needed
 
 # Prerequisites

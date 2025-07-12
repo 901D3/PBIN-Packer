@@ -13,7 +13,7 @@ tablelayout.py will generate a .table.txt file which will have files name at par
 
 `py buildpbin.py -i <folder> -table <table.txt generated from tablelayout> -o <outfile(ext doesnt matter)>`
 
-Read builgpbin.py for more info on how it works(especially patching process)
+Read buildpbin.py for more info on how it works(especially patching process)
 
 # _**Unpacking**_
 Since this tool only comes with packing and no unpacking, you have to use WinRAR or 7z(WinRAR works better than 7z on Classic Offensive's code.pbin)

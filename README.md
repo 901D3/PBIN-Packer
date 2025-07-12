@@ -16,4 +16,4 @@ tablelayout.py will generate a .table.txt file which will have files name at par
 Read builgpbin.py for more info on how it works(especially patching process)
 
 # Unpacking
-Since this tool only comes with packing and no unpack, you have to use WinRAR or 7z(WinRAR works better than 7z on Classic Offensive's code.pbin)
+Since this tool only comes with packing and no unpacking, you have to use WinRAR or 7z(WinRAR works better than 7z on Classic Offensive's code.pbin)

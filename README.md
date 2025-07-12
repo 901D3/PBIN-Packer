@@ -20,6 +20,28 @@ Since this tool only comes with packing and no unpacking, you have to use WinRAR
 
 ### **Tags(ignore it)**
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 code.pbin packing, code.pbin pack, code.pbin packer,
 
 code.pbin unpacking, code.pbin unpack, code.pbin unpacker,

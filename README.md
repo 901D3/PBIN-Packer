@@ -19,7 +19,50 @@ Read builgpbin.py for more info on how it works(especially patching process)
 Since this tool only comes with packing and no unpacking, you have to use WinRAR or 7z(WinRAR works better than 7z on Classic Offensive's code.pbin)
 
 ### **Tags(ignore it)**
-
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
 ###########################################################
 
 code.pbin packing, code.pbin pack, code.pbin packer,
@@ -72,4 +115,58 @@ panorama ui mod, panorama ui modder, panorama ui modding,
 
 pbin file, pbin file ext, pbin file extension, 
 
-how to mod code.pbin, how to build code.pbin, how to pack code.pbin, how to unpack code.pbin, how to compile code.pbin
+how to mod code.pbin, how to build code.pbin, how to pack code.pbin, how to unpack code.pbin, how to compile code.pbin,
+
+how to mod code.pbin without injection,
+
+how to build code.pbin without injection,
+
+how to pack code.pbin without injection,
+
+how to unpack code.pbin without injection,
+
+how to compile code.pbin without injection,
+
+how to mod code.pbin without inject,
+
+how to build code.pbin without inject,
+
+how to pack code.pbin without inject,
+
+how to unpack code.pbin without inject,
+
+how to compile code.pbin without inject,
+
+how to mod code.pbin without injector,
+
+how to build code.pbin without injector,
+
+how to pack code.pbin without injector,
+
+how to unpack code.pbin without injector,
+
+how to compile code.pbin without injector,
+
+how to mod code.pbin without an injector,
+
+how to build code.pbin without an injector,
+
+how to pack code.pbin without an injector,
+
+how to unpack code.pbin without an injector,
+
+how to compile code.pbin without an injector,
+
+how to mod code.pbin without a injector,
+
+how to build code.pbin without a injector,
+
+how to pack code.pbin without a injector,
+
+how to unpack code.pbin without a injector,
+
+how to compile code.pbin without a injector,
+
+panorama.dll injector,
+
+panorama.dll inject

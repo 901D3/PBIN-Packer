@@ -1,5 +1,5 @@
 # _**PBIN-Packer**_
-If you are looking for a code.pbin packer then this tool comes in handy
+If you are looking for a code.pbin packer without any injection then this tool comes in handy
 
 A PBIN Packer with no dll injection, no modify memory at runtime. Only pack a folder into valid pbin file🔥
 

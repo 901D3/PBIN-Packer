@@ -18,6 +18,9 @@ Read buildpbin.py for more info on how it works(especially patching process)
 # _**Unpacking**_
 Since this tool only comes with packing and no unpacking, you have to use WinRAR or 7z(WinRAR works better than 7z on Classic Offensive's code.pbin)
 
+# _**Editing**_
+This tool is not desgined to edit Panorama UI and preview it. It only pack a folder into valid pbin
+
 ### **Tags(ignore it)**
 ###########################################################
 ###########################################################

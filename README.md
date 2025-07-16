@@ -1,5 +1,5 @@
 # _**PBIN-Packer**_
-If you are looking for a code.pbin packer without any injection then this tool comes in handy
+If you are looking for a code.pbin packer without any injection then this tool comes in handy.
 
 A PBIN Packer with no dll injection, no modify memory at runtime. Only pack a folder into valid pbin file🔥
 
@@ -9,17 +9,22 @@ Python
 # _**Packing**_
 `py tablelayout.py -i <folder>`
 
-tablelayout.py will generate a .table.txt file which will have files name at parent dir first, then files at subfolder second. All alphabetical
+tablelayout.py will generate a .table.txt file which will have files name at parent dir first, then files at subfolder second. All alphabetical.
 
 `py buildpbin.py -i <folder> -table <table.txt generated from tablelayout> -o <outfile(ext doesnt matter)>`
 
 Read buildpbin.py for more info on how it works(especially patching process)
 
 # _**Unpacking**_
-Since this tool only comes with packing and no unpacking, you have to use WinRAR or 7z(WinRAR works better than 7z on Classic Offensive's code.pbin)
+Since this tool only comes with packing and no unpacking, you have to use WinRAR or 7z(WinRAR works better than 7z on Classic Offensive's code.pbin).
 
 # _**Editing**_
-This tool is not desgined to edit Panorama UI and preview it. It only pack a folder into valid pbin
+This tool is not desgined to edit Panorama UI and preview it. It only pack a folder into valid pbin.
+
+# _**MISC**_
+
+Tested on CS:GO and Classic Offensive.
+To mod console or server popup styles, you have to mod the VGUI config files(usually .res files). code.pbin have no effect on it
 
 ### **Tags(ignore it)**
 ###########################################################

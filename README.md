@@ -19,13 +19,25 @@ Read buildpbin.py for more info on how it works(especially patching process)
 Since this tool only comes with packing and no unpacking, you have to use WinRAR or 7z(WinRAR works better than 7z on Classic Offensive's code.pbin).
 
 # _**Editing**_
-This tool is not desgined to edit Panorama UI and preview it. It only pack a folder into valid pbin.
+This tool is not desgined to edit Panorama UI and preview it. It only pack a folder into valid PBIN file.
 
 # _**MISC**_
 
 Tested on CS:GO and Classic Offensive.
 
-To mod console or server popup styles, you have to mod the VGUI config files(usually .res files). code.pbin have no effect on it
+To mod console or server popup styles, you have to mod the VGUI config files(usually .res files). Panorama have no effect on it
+
+----------
+
+This tool is an independent, third-party project created by fans for use with Valve's games.
+It is NOT affiliated with, sponsored by, promoted by, authorized by, endorsed by, or in any way officially or unofficially connected with Valve Corporation, Steam, or any of Valve's subsidiaries or affiliates.
+
+_**NO**_ Valve assets, code, scripts, models, binaries, fonts, images, videos, audio, media, locales, maps, textures, resources, or other proprietary content are redistributed with this project.
+Users must provide their own legally obtained Valve game files to use this tool.
+
+----------
+
+# _**Do What The Fuck You Want To Public License**_
 
 ### **Tags(ignore it)**
 ###########################################################

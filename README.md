@@ -37,7 +37,7 @@ Users must provide their own legally obtained Valve game files to use this tool.
 
 ----------
 
-# _**Do What The Fuck You Want To Public License**_
+# _**MIT License**_
 
 ### **Tags(ignore it)**
 ###########################################################
